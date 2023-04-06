@@ -1,0 +1,21 @@
+main{
+    grid-area: main;
+    flex-direction: column;
+    margin-top: 96px;
+    text-align: center;
+    align-self: center;
+   }
+   .Primeiro{
+    color: red;
+    font-size: 16px;
+    margin-bottom: 24px;
+   }
+   .Segundo{
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    margin-bottom: 32px;
+   }
+   .terceiro{
+    color: rgb(123, 121, 121);
+    font-size: 20px;
+   }

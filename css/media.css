@@ -1,0 +1,94 @@
+@media only screen and (max-width: 700px){
+    .Textos{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .Cabeçario, .logo2{
+        display: none;
+    }
+    
+    main{
+        margin-top: 30px;
+        text-align: center;
+        width: 700px;
+    }
+    .Primeiro{
+        font-size: 10px;
+    }
+    .Segundo{
+        font-size: 25px;
+    }
+    .terceiro{
+        font-size: 16px;
+        flex-wrap: wrap;
+    }
+    .a{
+        margin-left: -630px;
+        margin-bottom: -100px;
+        margin-top: -10px;
+    }
+    .b{
+        margin-left: -630px;
+        margin-bottom: -100px;
+    }
+    .c{
+        margin-left: -630px;
+        margin-bottom: -100px;
+    }
+    .d{
+        margin-left: -600px;
+        margin-bottom: -100px;
+    }
+    section{
+        text-align: center;
+        width: 700px;
+    }
+    .f{
+    margin-top: -30px;
+       height: 400px;
+       width: 700px;
+       align-self: center;
+       margin-bottom: -50px;   
+    }
+    .foto3{
+        width: 600px;
+        height: 300px;
+        margin-left: -40px;
+    }
+    .e{
+    width: 700px;
+    text-align: center;
+    }
+    .g, .j{
+        width: 700px;
+        margin-left: 70px;
+    }
+    .h, .i, .k, .l, .m{
+        margin-left: 100px;
+        margin-right: 800px;
+        margin-top: 24px;
+        font-size: 16px;
+        border: solid 1px rgb(123, 121, 121);
+        border-radius: 16px;
+        padding: 24px 24px 24px;
+    }
+    
+
+    .xxx, footer{
+    width: 850px;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-left: -80px;
+    margin-bottom: -150px;
+    }
+    .logo1{
+        margin-left: -50px;
+    }
+    .Fim{
+        margin-left: -50px;
+    }
+}
+    

@@ -1,0 +1,27 @@
+.e{
+    grid-area: textE;
+    flex-direction: column;
+    padding: 100px 24px;
+    text-align: center;
+    align-self: center;
+   }
+   .PrimeiroE{
+    color: red;
+    font-size: 14px;
+    margin-bottom: 24px;
+   }
+   .SegundoE{
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    margin-bottom: 32px;
+   }
+   .terceiroE{
+    font-size: 20px;
+    color: rgb(123, 121, 121);
+   }
+   .f{
+    grid-area: foto;
+    height: 400px;
+    align-self: center;
+    margin-left: 112px;
+   }

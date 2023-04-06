@@ -1,0 +1,45 @@
+.j{
+    grid-area: textJ;
+    margin-left: 336px;
+    font-size: 20px;
+}
+
+.k{
+    grid-area: textK;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 24px;
+    font-size: 18px;
+    border: solid 1px rgb(123, 121, 121);
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+   }
+
+   .l{
+    grid-area: textL;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 32px;
+    font-size: 18px;
+    border: solid 1px rgb(123, 121, 121);
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+   }
+   
+   .m{
+    grid-area: textM;
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 32px;
+    font-size: 18px;
+    border: solid 1px rgb(123, 121, 121);
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+    margin-bottom: 64px;
+   }
+   .segundoK, .segundoL, .segundoM{
+    display: inline;
+    gap: 24px;
+    color: rgb(123, 121, 121);
+    font-size: 16px;
+   }

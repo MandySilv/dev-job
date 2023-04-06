@@ -1,0 +1,90 @@
+.a{
+    grid-area: textA;
+    width: 347,75px;
+    height: 288px;
+    align-self: center;
+    margin-left: 112px;
+   }
+
+   .b{
+    grid-area: textB;
+    width: 347,75px;
+    height: 288px;
+    align-self: center;
+   }
+
+   .c{
+    grid-area: textC;
+    width: 347,75px;
+    height: 288px;
+
+    align-self: center;
+   }
+
+   .d{
+    grid-area: textD;
+    width: 347,75px;
+    height: 288px;
+
+    align-self: center;
+   }
+
+   .PrimeiroA{
+    color: brown;
+    font-size: 60px;
+    margin-bottom: 12px;
+   }
+   .segundoA{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 8px;
+   }
+   .terceiroA{
+    color: rgb(123, 121, 121);
+    font-size: 16px;
+   }
+
+   .PrimeiroB{
+    color: brown;
+    font-size: 60px;
+    margin-bottom: 12px;
+   }
+   .segundoB{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 8px;
+   }
+   .terceiroB{
+    color: rgb(123, 121, 121);
+    font-size: 16px;
+   }
+
+   .PrimeiroC{
+    color: brown;
+    font-size: 60px;
+    margin-bottom: 12px;
+   }
+   .segundoC{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 8px;
+   }
+   .terceiroC{
+    color: rgb(123, 121, 121);
+    font-size: 16px;
+   }
+
+   .PrimeiroD{
+    color: brown;
+    font-size: 60px;
+    margin-bottom: 12px;
+   }
+   .segundoC{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 8px;
+   }
+   .terceiroD{
+    color: rgb(123, 121, 121);
+    font-size: 16px;
+   }

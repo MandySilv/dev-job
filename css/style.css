@@ -1,0 +1,48 @@
+@import "./cabeçario.css";
+@import "./main.css";
+@import "./tabelas.css";
+@import "./imagem.css";
+@import "./designer.css";
+@import "./Software.css";
+@import "./perfil.css";
+@import "./rodape.css";
+@import "./media.css";
+
+.Tabela{
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    grid-template-areas: 
+    'head cabeçario cabeçario fim'
+    'main main main main'
+    'Textos Textos Textos Textos'
+    'textE textE textE textE'
+    'foto foto foto foto'
+    'design design design design'
+    'textH textH textH textH'
+    'textI textI textI textI'
+    'textJ textJ textJ textJ'
+    'textK textK textK textK'
+    'textL textL textL textL'
+    'textM textM textM textM'
+    'xxx xxx xxx xxx'
+    'footer footer footer footer';
+    width: 1440px;
+   }
+   
+   .Textos{
+    display: flex;
+    grid-area: Textos;
+    flex-wrap: wrap;
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+    gap: 24px;
+   }
+   .Começo{
+    width: auto;
+    justify-content: space-between;
+    display: flex;
+    gap: 90px;
+   }
